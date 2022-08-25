@@ -1,0 +1,39 @@
+header {
+    background-color: antiquewhite;
+    padding: 20px 0px;
+}
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav {
+    position: absolute;
+    top: 150px;
+    right: 80px;
+}
+
+nav li {
+    display: inline;
+    margin-left: 35px;
+    font-style:unset
+}
+
+nav a {
+    text-transform: uppercase;
+    color:black;
+    font-weight: bold;
+    font-size: 40px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color:blueviolet;
+    text-decoration: underline;
+}
+
+
+
+
